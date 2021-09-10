@@ -35,18 +35,4 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tegal1337/Youtube-Auto-Commenter.git"
-  },
-  "keywords": [
-    "Yt"
-  ],
-  "author": "Abdul Muttaqin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tegal1337/Youtube-Auto-Commenter/issues"
-  },
-  "homepage": "https://github.com/tegal1337/Youtube-Auto-Commenter#readme"
-}
+  }
