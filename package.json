@@ -36,10 +36,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-},
   "repository": {
     "type": "git",
-    "url": "https://github.com/fdciabdul/bca-mutasi-sample/"
+    "url": "git+https://github.com/fdciabdul/bca-mutasi-sample.git"
   },
   "keywords": [
     "Yt"
@@ -47,8 +46,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fdciabdul/bca-mutasi-sample//issues"
+    "url": "https://github.com/fdciabdul/bca-mutasi-sample/issues"
   },
-  "homepage": "https://github.com/fdciabdul/bca-mutasi-sample/#readme"
+  "homepage": "https://github.com/fdciabdul/bca-mutasi-sample#readme"
 }
-
