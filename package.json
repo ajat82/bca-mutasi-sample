@@ -28,7 +28,7 @@
   "name": "yt-commenter",
   "version": "1.0.0",
   "description": "Auto Comment Youtube Videos",
-  "main": "main.js",
+  "main": "server.js",
   "directories": {
     "lib": "lib"
   },
@@ -36,4 +36,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdciabdul/bca-mutasi-sample/"
+  },
+  "keywords": [
+    "Yt"
+  ],
+  "author": "Abdul Muttaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdciabdul/bca-mutasi-sample//issues"
+  },
+  "homepage": "https://github.com/fdciabdul/bca-mutasi-sample/#readme"
 }
+
